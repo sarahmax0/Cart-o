@@ -1,0 +1,122 @@
+@import url('https://fonts.googleapis.com/css2?family=Manrope:wght@400;500;700;800&display=swap');
+
+body {
+    text-align: center;
+    font-family: 'Manrope', sans-serif;
+    background: #BBB193;
+    color: #F6F0ED;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+
+h1, h2, h3, h4 {
+    text-shadow: 0 0 2px #F6F0ED;
+}
+
+.happyforu {
+    margin: 0 auto;
+    width: 400px;
+    border: 6px solid #F6F0ED;
+    height: 400px;
+    border-radius: 10px;
+    background-image: url(assets/backkk.jpg);
+    background-size: cover;
+    background-position: center;
+}
+
+.happyforu:hover {
+    background-image: url(assets/happy.gif);
+}
+
+.iknow {
+    margin: 0 auto;
+    width: 400px;
+    border: 6px solid #F6F0ED;
+    height: 400px;
+    border-radius: 10px;
+    background-image: url(assets/gatinho.jpg);
+    background-size: cover;
+    background-position: center;
+}
+
+.iknow:hover {
+    background-image: url(assets/euseieusei.gif);
+}
+
+.sadbuthappy {
+    margin: 0 auto;
+    width: 400px;
+    border: 6px solid #F6F0ED;
+    height: 400px;
+    border-radius: 10px;
+    background-image: url(assets/colo.jpg);
+    background-size: cover;
+    background-position: center;
+}
+
+.sadbuthappy:hover {
+    background-image: url(assets/sadbuthappy.gif);
+}
+
+.thanku {
+    margin: 0 auto;
+    width: 400px;
+    border: 6px solid #F6F0ED;
+    height: 400px;
+    border-radius: 10px;
+    background-image: url(assets/gato.jpg);
+    background-size: cover;
+    background-position: center;
+}
+
+.thanku:hover {
+    background-image: url(assets/thanku.gif);
+}
+
+.celebrar {
+    margin: 0 auto;
+    width: 400px;
+    border: 6px solid #F6F0ED;
+    height: 400px;
+    border-radius: 10px;
+    background-image: url(assets/celebrarr.jpg);
+    background-size: cover;
+    background-position: center;
+}
+
+.celebrar:hover {
+    background-image: url(assets/celebrar.gif);
+}
+
+
+.finish {
+    margin: 0 auto;
+    width: 400px;
+    border: 6px solid #F6F0ED;
+    height: 400px;
+    border-radius: 10px;
+    background-image: url(assets/última.jpg);
+    background-size: cover;
+    background-position: center;
+}
+
+.finish:hover {
+    background-image: url(assets/que-venham-os-proximos.gif);
+}
+
+.noix {
+    margin: 0 auto;
+    width: 400px;
+    border: 6px solid #F6F0ED;
+    height: 400px;
+    border-radius: 10px;
+    background-image: url(assets/eu-hoje.jpg);
+    background-size: cover;
+    background-position: center;
+}
+
+.noix:hover {
+    background-image: url(assets/eu-nova.JPG);
+}
